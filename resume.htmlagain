@@ -5,6 +5,29 @@
     </head>
 
     <body>
+    
+    <h1>Sade Ajishegiri</h1>
+    
+        <div id="contact">
+            email
+            LinkedIn
+            Twitter
+         </div>
+         
+    <h2>Experience</h2>
+    
+    <h3>Reporter</h3>
+    <h4>Indiana Daily Student</h4>
+    <h5>2022-2024</h5>
+    
+    <h3>Jobtitle</h3>
+    <h4>Org</h4>
+    
+    <h2>Education</h2>
+    
+    
+    <h2>Skills</h2>
+    
     </body>
     
 </html>
