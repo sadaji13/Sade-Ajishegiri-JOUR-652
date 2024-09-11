@@ -7,11 +7,12 @@
     <body>
     
     <h1>Sade Ajishegiri</h1>
-    
+    <p><strong>Graduate Student Journalist</strong></p>
+    <img src="C:\Users\sadea\OneDrive\Documents\GitHub\Sade-Ajishegiri-JOUR-652\picofme.jpg"
         <div id="contact">
-            email
-            LinkedIn
-            Twitter
+            email<br>
+            LinkedIn<br>
+            Twitter<br>
          </div>
          
     <h2>Experience</h2>
@@ -19,14 +20,23 @@
     <h3>Reporter</h3>
     <h4>Indiana Daily Student</h4>
     <h5>2022-2024</h5>
+    <p>Columnist for the Black Voices Afuera desk, which gives voice to minority issues at one of the country’s most acclaimed student news organizations.Won an Indiana Collegiate Press Association award for a column on the backlash against Halle Bailey’s portrayal of Ariel in the Disney live-action remake of The Little Mermaid.</p>
     
     <h3>Jobtitle</h3>
     <h4>Org</h4>
+    <h5>Dates/h5>
     
     <h2>Education</h2>
-    
+    <ul>
+    <li>BA Indiana University</li>
     
     <h2>Skills</h2>
+    
+    <ul>
+    
+    <li>Copy-editing</li>
+    
+    
     
     </body>
     
