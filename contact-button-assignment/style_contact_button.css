@@ -1,0 +1,15 @@
+/*
+MY COLOR PALETTE
+Color 1 - #3d0814
+Color 2 - #216869
+Color 3 - #c6b38e
+Color 4 - #a23638
+Color 5 - #442f38s
+*/
+.awesome {
+    background-color: #c6b38e;
+}
+.cool-button{
+    background-color: #a23638; color: #c6b38e; font-size: 23px; border: none; width:130px   
+    
+}
