@@ -52,17 +52,17 @@ background-color: #6f2527;
 }
     
 .col-4 {background-color: #e3d1ac;
-      color: #3d0814;
+      color: #3d0814;text-align:center
     }
     
 .col-sm-6 {
       color: #3d0814;
     font-size: 13px;
-    font-family:cambria;
+    font-family:cambria;text-align: center;
         
     }
 
-.topclick  {text-align-last: center;
+.topclick  {text-align: center;
     box-shadow:inherit; margin-top: 15px; margin-bottom: 15px; font-family: lucida
         ;font-size: 25px; 
 }
@@ -73,7 +73,7 @@ background-color: #6f2527;
 
 #beef {background-color: #e3d1ac;
       color: #3d0814;
-    text-align-last: center;
+    text-align: center;
 }
 #skills { color: #3d0814;
     font-size: 13px;
