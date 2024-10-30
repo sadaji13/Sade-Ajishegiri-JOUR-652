@@ -7,9 +7,20 @@ Color 4 - #a23638
 Color 5 - #442f38s
 */
 .awesome {
-    background-color:#442f38; color: #c6b38e; font-size: 23px; border: none; width:130px; color: c6b38e;
+    background-color: #442f38;
+    color: #c6b38e;
+    font-size: 23px;
+    border: none;
+    width: 130px;
+    color: c6b38e;
 }
-.cool-button{
-background-color: #3d0814; color: #c6b38e; font-size: 23px; border: none; width:130px      
+.cool-button {
+    background-color: #3d0814;
+    color: #c6b38e;
+    font-size: 23px;
+    border: none;
+    width: 130px;
 }
-button:hover{ color: #a23638}
+button:hover {
+    color: #a23638;
+}
