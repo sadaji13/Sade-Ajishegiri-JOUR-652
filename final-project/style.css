@@ -1,3 +1,8 @@
+
+
+
+  @media{
+
 img
 {width:100%;
 }
@@ -15,6 +20,30 @@ h1{
 
 #disclaimer{font-style: italic;
   
+    }
+    .pullquote{
+      border:3px solid pink;
+      font-size:30px;
+      color:fuchsia;
+      font-family: Gill sans; 
+      background-color: #f0f4ff;
+      padding: 30px;
+      text-align:center;
+      line-height: ;
+    }
+    #quote_attribution{
+      font-size:15px;
+      color:fuchsia;
+      font-style: italic;
+      font-family: Gill sans; 
+      background-color: #f0f4ff;
+      text-align:center;
+      line-height: ;
+    }
+
+  .img_caption{
+    
+  }
   
 }
 #content{
@@ -28,3 +57,10 @@ h2{
 
 #topper{
     background-image:cover;}
+
+}
+
+@media (min-width:576px){
+  
+
+}
