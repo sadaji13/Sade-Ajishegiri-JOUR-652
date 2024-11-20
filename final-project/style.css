@@ -7,16 +7,27 @@ img
 {width:100%;
 }
 
-#topper {background-image: url();
+#topper {background-image: url(final-project/giant cross burning.jpg);
   background-size: cover;
-  background-position-x: center;
-  
+  background-position-x:center;
 }
+    
+.imagefullscreen{
+  background-image:url();
+      background-size: cover;
+  background-position-x: 30% 30%;
+      
+    }
 h1{
     font-family: "Roboto Mono", monospace;
   font-optical-sizing: auto;
   font-style: normal;   
 }
+
+.story text {
+      font-family: Gill sans;
+      
+    }
 
 #disclaimer{font-style: italic;
   
@@ -52,13 +63,8 @@ h1{
 
 h2{
   
-  
 }
 
-#topper{
-    background-image:cover;}
-
-}
 
 @media (min-width:576px){
   
