@@ -1,72 +1,71 @@
-
-
-
-  @media{
-
-img
-{width:100%;
-}
-
-#topper {background-image: url(final-project/giant cross burning.jpg);
-  background-size: cover;
-  background-position-x:center;
-}
-    
-.imagefullscreen{
-  background-image:url();
-      background-size: cover;
-  background-position-x: 30% 30%;
-      
-    }
-h1{
-    font-family: "Roboto Mono", monospace;
-  font-optical-sizing: auto;
-  font-style: normal;   
-}
-
-.story text {
-      font-family: Gill sans;
-      
-    }
-
-#disclaimer{font-style: italic;
-  
-    }
-    .pullquote{
-      border:3px solid pink;
-      font-size:30px;
-      color:fuchsia;
-      font-family: Gill sans; 
-      background-color: #f0f4ff;
-      padding: 30px;
-      text-align:center;
-      line-height: ;
-    }
-    #quote_attribution{
-      font-size:15px;
-      color:fuchsia;
-      font-style: italic;
-      font-family: Gill sans; 
-      background-color: #f0f4ff;
-      text-align:center;
-      line-height: ;
-    }
-
-  .img_caption{
-    
+@media {
+  img {
+    width: 100%;
   }
-  
+
+  #topper {
+    background-image: url(final-project/giant cross burning.jpg);
+    background-size: cover;
+    background-position-x: center;
+    color:#222321;
+  }
+
+  .imagefullscreen {
+    background-image: url();
+    background-size: cover;
+    background-position-x: 30% 30%;
+  }
+  h1 {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+
+  .container {
+    font-family: Trebuchet MS;
+    font-size: medium;
+    color: whitesmoke;
+    background-color: #222321;
+  }
+
+  .storysection {
+    font-family: Gill Sans MT;
+    font-size: large;
+    text-transform: uppercase;
+    color: #E01A4F;
+  }
+
+  #disclaimer {
+    font-style: italic;
+  }
+  .pullquote {
+    
+    font-size: 30px;
+    color: #E01A4F;
+    font-family: Gill sans;
+   float: inline-right;
+    padding: 30px;
+    text-align: center;
+    line-height:
+  }
+  .quote_attribution {
+    font-size: 18px;
+    color: #E01A4F;
+    font-style: italic;
+    font-family: Gill sans;
+    background-color: lightgrey;
+    text-align: center;
+    border-top: 5p
+  }
+
+  .img_caption {
+  }
 }
-#content{
-  
+#content {
 }
 
-h2{
-  
+h2 {
 }
 
-
-@media (min-width:576px){
-  
-
+@media (min-width: 576px) {
 }
