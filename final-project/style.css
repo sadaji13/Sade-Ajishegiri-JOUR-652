@@ -2,9 +2,13 @@
   img {
     width: 100%;
   }
-
+  body{
+    background-color: #222321;
+    
+  }
   #topper {
-    background-image: url(final-project/giant cross burning.jpg);
+    margin:0px;
+    background-image: url("giant%20cross%20burning.jpg");
     background-size: cover;
     background-position-x: center;
     color:#222321;
@@ -18,16 +22,27 @@
   h1 {
     font-family: "Roboto Mono", monospace;
     font-optical-sizing: auto;
-    font-style: normal;
+    color: whitesmoke;
+    text-shadow:0 0 3px #000000, 0 0 5px #e01a4f;
+    margin-bottom: 300px
   }
-
-  .container {
+  #video{
+    width: 100%;
+    
+  }
+  #content {
     font-family: Trebuchet MS;
     font-size: medium;
     color: whitesmoke;
     background-color: #222321;
+    margin: auto;
+    width:100%;
+    
   }
-
+  .chart-caption{ 
+    font-style: italic;
+    font-size: smaller;
+  }
   .storysection {
     font-family: Gill Sans MT;
     font-size: large;
@@ -37,6 +52,7 @@
 
   #disclaimer {
     font-style: italic;
+    color:whitesmoke;
   }
   .pullquote {
     
@@ -46,7 +62,7 @@
    float: inline-right;
     padding: 30px;
     text-align: center;
-    line-height:
+    
   }
   .quote_attribution {
     font-size: 18px;
@@ -58,14 +74,18 @@
     border-top: 5p
   }
 
-  .img_caption {
+  .img_caption {font-size: smaller;
+    font-style: italic;
   }
-}
-#content {
-}
+
+
 
 h2 {
 }
-
+}
 @media (min-width: 576px) {
+  #content {width:60%;
+    
+    
+  }
 }
